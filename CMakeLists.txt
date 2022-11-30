@@ -34,6 +34,8 @@ set(MSG_FILES
   "msg/HedgeQuality.msg"
   "msg/HedgeTelemetry.msg"
   "msg/MarvelmindWaypoint.msg"
+  "msg/MarvelmindUserData.msg"
+   "srv/MarvelmindAPI.srv"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
