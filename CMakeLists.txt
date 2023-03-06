@@ -35,6 +35,7 @@ set(MSG_FILES
   "msg/HedgeTelemetry.msg"
   "msg/MarvelmindWaypoint.msg"
   "msg/MarvelmindUserData.msg"
+  "msg/BeaconPositions.msg"
    "srv/MarvelmindAPI.srv"
 )
 
