@@ -1,0 +1,1 @@
+BeaconPositionAddressed[] beacons
